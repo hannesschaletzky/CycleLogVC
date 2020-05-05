@@ -63,6 +63,12 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Just for logging</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Just for logging</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Just for logging</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
