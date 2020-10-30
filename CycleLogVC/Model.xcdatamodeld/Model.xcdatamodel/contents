@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19E287" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Journeys" representedClassName="Journeys" syncable="YES" codeGenerationType="class">
+        <attribute name="creationDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="name" attributeType="String"/>
+    </entity>
+    <entity name="Logs" representedClassName="Logs" syncable="YES" codeGenerationType="class">
+        <attribute name="date" attributeType="String"/>
+        <attribute name="finalValues" optional="YES" attributeType="String"/>
+        <attribute name="horAcc" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="image1" optional="YES" attributeType="String" allowsExternalBinaryDataStorage="YES"/>
+        <attribute name="imgOrientation" optional="YES" attributeType="String"/>
+        <attribute name="isOfflineLog" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="isSynced" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="journey" attributeType="String"/>
+        <attribute name="kmCount" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="latitude" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="longitute" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="mood" attributeType="Integer 16" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="note" optional="YES" attributeType="String"/>
+        <attribute name="other" optional="YES" attributeType="String"/>
+        <attribute name="time" attributeType="String"/>
+        <attribute name="timeZone" attributeType="String"/>
+        <attribute name="type" attributeType="String"/>
+        <attribute name="verAcc" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="Journeys" positionX="-63" positionY="-18" width="128" height="73"/>
+        <element name="Logs" positionX="-63" positionY="0" width="128" height="313"/>
+    </elements>
+</model>

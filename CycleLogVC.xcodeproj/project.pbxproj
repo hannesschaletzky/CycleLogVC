@@ -7,25 +7,53 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D24881C246B2F8F00A0CB68 /* LogViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D24881B246B2F8F00A0CB68 /* LogViewController.swift */; };
+		2D5227432464AC6B00F36B50 /* LogClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D5227422464AC6B00F36B50 /* LogClass.swift */; };
+		2D5227452464BBF800F36B50 /* LogTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D5227442464BBF800F36B50 /* LogTableViewController.swift */; };
+		2D6EE546246DCEC200B66819 /* z_BackupCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D6EE545246DCEC200B66819 /* z_BackupCode.swift */; };
+		2DADDC2E2463372200F9E3D2 /* JourneyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DADDC2D2463372200F9E3D2 /* JourneyViewController.swift */; };
+		2DADDC3024633E1900F9E3D2 /* JourneyClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DADDC2F24633E1900F9E3D2 /* JourneyClass.swift */; };
+		2DADDC33246342F400F9E3D2 /* JourneyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DADDC32246342F400F9E3D2 /* JourneyTableViewController.swift */; };
 		2DAE0B792460DE900078F7CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAE0B782460DE900078F7CD /* AppDelegate.swift */; };
 		2DAE0B7B2460DE900078F7CD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAE0B7A2460DE900078F7CD /* SceneDelegate.swift */; };
-		2DAE0B7D2460DE900078F7CD /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAE0B7C2460DE900078F7CD /* FirstViewController.swift */; };
-		2DAE0B7F2460DE900078F7CD /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAE0B7E2460DE900078F7CD /* SecondViewController.swift */; };
+		2DAE0B7D2460DE900078F7CD /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAE0B7C2460DE900078F7CD /* AddViewController.swift */; };
 		2DAE0B822460DE900078F7CD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DAE0B802460DE900078F7CD /* Main.storyboard */; };
 		2DAE0B842460DE930078F7CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DAE0B832460DE930078F7CD /* Assets.xcassets */; };
 		2DAE0B872460DE930078F7CD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DAE0B852460DE930078F7CD /* LaunchScreen.storyboard */; };
+		2DBB9FC024635C9200E2DDC3 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DBB9FBF24635C9200E2DDC3 /* ProfileViewController.swift */; };
+		2DBB9FC3246366C500E2DDC3 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2DBB9FC1246366C500E2DDC3 /* Model.xcdatamodeld */; };
+		2DBB9FE82463696200E2DDC3 /* ModelController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DBB9FE72463696200E2DDC3 /* ModelController.swift */; };
+		2DBB9FEA24636DF100E2DDC3 /* SupportFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DBB9FE924636DF100E2DDC3 /* SupportFunctions.swift */; };
+		2DE2D55D2473EABF00597F3C /* LogEditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE2D55C2473EABF00597F3C /* LogEditViewController.swift */; };
+		2DF4C0092471504100C2C049 /* LogDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF4C0082471504100C2C049 /* LogDetailsViewController.swift */; };
+		2DF4F832246FE45D00D3B11B /* SelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF4F831246FE45D00D3B11B /* SelectionViewController.swift */; };
+		2DF4F834246FE46C00D3B11B /* SelectionTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF4F833246FE46C00D3B11B /* SelectionTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2D24881B246B2F8F00A0CB68 /* LogViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogViewController.swift; sourceTree = "<group>"; };
+		2D5227422464AC6B00F36B50 /* LogClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogClass.swift; sourceTree = "<group>"; };
+		2D5227442464BBF800F36B50 /* LogTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogTableViewController.swift; sourceTree = "<group>"; };
+		2D6EE545246DCEC200B66819 /* z_BackupCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = z_BackupCode.swift; sourceTree = "<group>"; };
+		2DADDC2D2463372200F9E3D2 /* JourneyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JourneyViewController.swift; sourceTree = "<group>"; };
+		2DADDC2F24633E1900F9E3D2 /* JourneyClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JourneyClass.swift; sourceTree = "<group>"; };
+		2DADDC32246342F400F9E3D2 /* JourneyTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JourneyTableViewController.swift; sourceTree = "<group>"; };
 		2DAE0B752460DE900078F7CD /* CycleLogVC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CycleLogVC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DAE0B782460DE900078F7CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2DAE0B7A2460DE900078F7CD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		2DAE0B7C2460DE900078F7CD /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		2DAE0B7E2460DE900078F7CD /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		2DAE0B7C2460DE900078F7CD /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 		2DAE0B812460DE900078F7CD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2DAE0B832460DE930078F7CD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2DAE0B862460DE930078F7CD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2DAE0B882460DE930078F7CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2DBB9FBF24635C9200E2DDC3 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		2DBB9FC2246366C500E2DDC3 /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
+		2DBB9FE72463696200E2DDC3 /* ModelController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelController.swift; sourceTree = "<group>"; };
+		2DBB9FE924636DF100E2DDC3 /* SupportFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SupportFunctions.swift; sourceTree = "<group>"; };
+		2DE2D55C2473EABF00597F3C /* LogEditViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogEditViewController.swift; sourceTree = "<group>"; };
+		2DF4C0082471504100C2C049 /* LogDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogDetailsViewController.swift; sourceTree = "<group>"; };
+		2DF4F831246FE45D00D3B11B /* SelectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionViewController.swift; sourceTree = "<group>"; };
+		2DF4F833246FE46C00D3B11B /* SelectionTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +67,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2D5227402464AC2700F36B50 /* Logs */ = {
+			isa = PBXGroup;
+			children = (
+				2D5227422464AC6B00F36B50 /* LogClass.swift */,
+				2D24881B246B2F8F00A0CB68 /* LogViewController.swift */,
+				2D5227442464BBF800F36B50 /* LogTableViewController.swift */,
+				2DF4C0072471501E00C2C049 /* LogDetails */,
+				2DE2D55E2473EAC500597F3C /* Edit */,
+			);
+			path = Logs;
+			sourceTree = "<group>";
+		};
+		2D5227412464AC3300F36B50 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				2DAE0B7A2460DE900078F7CD /* SceneDelegate.swift */,
+				2DAE0B832460DE930078F7CD /* Assets.xcassets */,
+				2DAE0B852460DE930078F7CD /* LaunchScreen.storyboard */,
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
+		2DADDC31246342D700F9E3D2 /* Journey */ = {
+			isa = PBXGroup;
+			children = (
+				2DADDC2F24633E1900F9E3D2 /* JourneyClass.swift */,
+				2DADDC2D2463372200F9E3D2 /* JourneyViewController.swift */,
+				2DADDC32246342F400F9E3D2 /* JourneyTableViewController.swift */,
+			);
+			path = Journey;
+			sourceTree = "<group>";
+		};
 		2DAE0B6C2460DE900078F7CD = {
 			isa = PBXGroup;
 			children = (
@@ -59,15 +119,61 @@
 			isa = PBXGroup;
 			children = (
 				2DAE0B782460DE900078F7CD /* AppDelegate.swift */,
-				2DAE0B7A2460DE900078F7CD /* SceneDelegate.swift */,
-				2DAE0B7C2460DE900078F7CD /* FirstViewController.swift */,
-				2DAE0B7E2460DE900078F7CD /* SecondViewController.swift */,
 				2DAE0B802460DE900078F7CD /* Main.storyboard */,
-				2DAE0B832460DE930078F7CD /* Assets.xcassets */,
-				2DAE0B852460DE930078F7CD /* LaunchScreen.storyboard */,
+				2DADDC31246342D700F9E3D2 /* Journey */,
+				2DF4F830246FE43600D3B11B /* Selection */,
+				2DF4C00B24715F9D00C2C049 /* Profile */,
+				2DF4C00A24715F8800C2C049 /* Add */,
+				2D5227402464AC2700F36B50 /* Logs */,
+				2D5227412464AC3300F36B50 /* Other */,
+				2DBB9FE72463696200E2DDC3 /* ModelController.swift */,
+				2DBB9FC1246366C500E2DDC3 /* Model.xcdatamodeld */,
+				2DBB9FE924636DF100E2DDC3 /* SupportFunctions.swift */,
 				2DAE0B882460DE930078F7CD /* Info.plist */,
+				2D6EE545246DCEC200B66819 /* z_BackupCode.swift */,
 			);
 			path = CycleLogVC;
+			sourceTree = "<group>";
+		};
+		2DE2D55E2473EAC500597F3C /* Edit */ = {
+			isa = PBXGroup;
+			children = (
+				2DE2D55C2473EABF00597F3C /* LogEditViewController.swift */,
+			);
+			path = Edit;
+			sourceTree = "<group>";
+		};
+		2DF4C0072471501E00C2C049 /* LogDetails */ = {
+			isa = PBXGroup;
+			children = (
+				2DF4C0082471504100C2C049 /* LogDetailsViewController.swift */,
+			);
+			path = LogDetails;
+			sourceTree = "<group>";
+		};
+		2DF4C00A24715F8800C2C049 /* Add */ = {
+			isa = PBXGroup;
+			children = (
+				2DAE0B7C2460DE900078F7CD /* AddViewController.swift */,
+			);
+			path = Add;
+			sourceTree = "<group>";
+		};
+		2DF4C00B24715F9D00C2C049 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				2DBB9FBF24635C9200E2DDC3 /* ProfileViewController.swift */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		2DF4F830246FE43600D3B11B /* Selection */ = {
+			isa = PBXGroup;
+			children = (
+				2DF4F831246FE45D00D3B11B /* SelectionViewController.swift */,
+				2DF4F833246FE46C00D3B11B /* SelectionTableViewController.swift */,
+			);
+			path = Selection;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -141,10 +247,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DAE0B7F2460DE900078F7CD /* SecondViewController.swift in Sources */,
-				2DAE0B7D2460DE900078F7CD /* FirstViewController.swift in Sources */,
+				2DADDC2E2463372200F9E3D2 /* JourneyViewController.swift in Sources */,
+				2D5227432464AC6B00F36B50 /* LogClass.swift in Sources */,
+				2DF4F834246FE46C00D3B11B /* SelectionTableViewController.swift in Sources */,
+				2DBB9FE82463696200E2DDC3 /* ModelController.swift in Sources */,
+				2D24881C246B2F8F00A0CB68 /* LogViewController.swift in Sources */,
+				2DBB9FEA24636DF100E2DDC3 /* SupportFunctions.swift in Sources */,
+				2DADDC33246342F400F9E3D2 /* JourneyTableViewController.swift in Sources */,
+				2DAE0B7D2460DE900078F7CD /* AddViewController.swift in Sources */,
+				2D5227452464BBF800F36B50 /* LogTableViewController.swift in Sources */,
+				2DE2D55D2473EABF00597F3C /* LogEditViewController.swift in Sources */,
+				2DADDC3024633E1900F9E3D2 /* JourneyClass.swift in Sources */,
+				2D6EE546246DCEC200B66819 /* z_BackupCode.swift in Sources */,
+				2DF4F832246FE45D00D3B11B /* SelectionViewController.swift in Sources */,
+				2DBB9FC3246366C500E2DDC3 /* Model.xcdatamodeld in Sources */,
+				2DF4C0092471504100C2C049 /* LogDetailsViewController.swift in Sources */,
 				2DAE0B792460DE900078F7CD /* AppDelegate.swift in Sources */,
 				2DAE0B7B2460DE900078F7CD /* SceneDelegate.swift in Sources */,
+				2DBB9FC024635C9200E2DDC3 /* ProfileViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,7 +418,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = schaletzky.CycleLogVC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -316,7 +436,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = schaletzky.CycleLogVC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -342,6 +462,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		2DBB9FC1246366C500E2DDC3 /* Model.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				2DBB9FC2246366C500E2DDC3 /* Model.xcdatamodel */,
+			);
+			currentVersion = 2DBB9FC2246366C500E2DDC3 /* Model.xcdatamodel */;
+			path = Model.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 2DAE0B6D2460DE900078F7CD /* Project object */;
 }
