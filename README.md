@@ -3,5 +3,7 @@ This app is a functional (not an UI) prototype of a GPS Tracker. The user can re
 
 Some Screenshots:
 
-
+![Alt text](CycleLogVC/Assets/Log_View.png?raw=true "Add a journey that functions as a Container")
+![Alt text](CycleLogVC/Assets/Log_DetailView.png?raw=true "Add a journey that functions as a Container")
+![Alt text](CycleLogVC/Assets/LogType_Selection.png?raw=true "Add a journey that functions as a Container")
 ![Alt text](CycleLogVC/Assets/Test_Screenshot.png?raw=true "Add a journey that functions as a Container")
